@@ -1,11 +1,8 @@
-1. download file weight dán vào thư mục weights trong listen_speak
-download tại:https://drive.google.com/file/d/1ZUWuY0ClXkXvv8xnHcQpBrbKyEv6XEkX/view?usp=sharing
-hoặc tại: https://www.mediafire.com/file/ew7v00rr9mvp3mw/tmodel_62.pt/file
+1.Cài các thư viện cần thiết
+3. chạy file detect.py
 
-2. pip install các thư viện cần thiết
-pip install datasets
-pip install tokenizers
-pip install torch
-pip install audio
-.......
-3. chạy file chatbot.py
+#hướng dẫn các nút bấm
+Start: Bắt đầu nhận diện
+Page1: Hiển thị hình ảnh gif
+Page2: Hiển thị camera + nhận diện đối tượng
+Exit: Thoát
